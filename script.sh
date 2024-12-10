@@ -23,4 +23,5 @@ echo "TOP 5 CPU PROCESS";
 echo ${TOP5_CPU};
 
 echo "==============================================================";
+echo "TOP 5 RAM PROCESS";
 echo ${TOP5_RAM};
